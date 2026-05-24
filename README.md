@@ -2,6 +2,8 @@
 
 An automated AI-powered stock analysis workflow built in **n8n** that monitors your portfolio in Google Sheets, analyzes each holding using Claude (Anthropic), and delivers a personalized **Buy / Hold / Sell** report straight to your Gmail — triggered automatically whenever you update your watchlist.
 
+<img width="867" height="551" alt="Screenshot 2026-05-24 at 10 50 34 PM" src="https://github.com/user-attachments/assets/ac44efa1-6004-4e32-8303-e939e9ebcaa6" />
+
 ---
 
 ## 🧠 How It Works
